@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maria Sophia Arubio Mascardo</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack Enthusiast | Creative Problem Solver</h3>
+<h3 align="center">
+I'm a junior web developer passionate about building responsive and user-friendly web applications. I recently completed Ironhack’s Web Development Bootcamp, where I worked on several full-stack projects using HTML, CSS, JavaScript, and React.
+I'm excited to keep learning, growing, and contributing to real-world projects.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
